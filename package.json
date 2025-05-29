@@ -1,0 +1,53 @@
+{
+  "name": "marketanalysis",
+  "version": "1.0.0",
+  "description": "AI + Knowledge Base Comprehensive and In-depth Analysis of Stocks",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "build": "npm run build:client && npm run build:server",
+    "build:client": "webpack --mode production",
+    "build:server": "babel server -d dist",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "stock-analysis",
+    "financial-data",
+    "ai",
+    "market-analysis",
+    "investment",
+    "trading",
+    "energy-markets",
+    "commodities"
+  ],
+  "author": "MarketAnalysis Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/marketanalysis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/marketanalysis/issues"
+  },
+  "homepage": "https://github.com/yourusername/marketanalysis#readme",
+  "dependencies": {
+    "express": "^4.18.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "axios": "^1.0.0",
+    "socket.io": "^4.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.0",
+    "jest": "^29.0.0",
+    "eslint": "^8.0.0",
+    "webpack": "^5.0.0",
+    "babel-cli": "^6.26.0"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  }
+} 
