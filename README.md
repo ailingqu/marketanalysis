@@ -1,7 +1,7 @@
-# MarketAnalysis - 股票市场分析平台
+# MarketAnalysis - Stock Market Analysis Platform
 
-[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.en.md)
-[![한국어](https://img.shields.io/badge/lang-한국어-red.svg)](README.ko.md)
+[![中文](https://img.shields.io/badge/lang-中文-red.svg)](README.zh-CN.md)
+[![한국어](https://img.shields.io/badge/lang-한국어-blue.svg)](README.ko.md)
 [![日本語](https://img.shields.io/badge/lang-日本語-yellow.svg)](README.ja.md)
 [![Deutsch](https://img.shields.io/badge/lang-Deutsch-green.svg)](README.de.md)
 [![हिन्दी](https://img.shields.io/badge/lang-हिन्दी-orange.svg)](README.hi.md)
@@ -9,103 +9,103 @@
 
 ![MarketAnalysis Cover](market-analysis-cover.png)
 
-## 📊 项目简介
+## 📊 Project Overview
 
-MarketAnalysis 是一个基于AI和知识库的综合性股票市场分析平台，专为投资者和金融分析师设计。该平台提供美股上市公司的深度分析、能源市场数据、大宗商品价格走势以及各类金融衍生品的历史图表数据。
+MarketAnalysis is a comprehensive AI and knowledge base-driven stock market analysis platform designed for investors and financial analysts. The platform provides in-depth analysis of US-listed companies, energy market data, commodity price trends, and historical chart data for various financial derivatives.
 
-### 🚀 核心功能
+### 🚀 Core Features
 
-- **🏢 美股分析**: 全面覆盖美股上市公司的财务数据、估值分析和投资建议
-- **⚡ 能源市场**: 原油、天然气、可再生能源等能源板块的实时数据和趋势分析
-- **📈 大宗商品**: 贵金属、农产品、工业金属等大宗商品的价格监控和分析
-- **🤖 AI驱动**: 利用人工智能技术进行智能分析和预测
-- **📚 知识库**: 丰富的金融知识库，帮助用户理解市场动态
-- **📊 可视化**: 直观的图表和数据可视化工具
+- **🏢 US Stock Analysis**: Comprehensive coverage of US-listed companies' financial data, valuation analysis, and investment recommendations
+- **⚡ Energy Markets**: Real-time data and trend analysis for crude oil, natural gas, renewable energy, and other energy sectors
+- **📈 Commodities**: Price monitoring and analysis for precious metals, agricultural products, industrial metals, and other commodities
+- **🤖 AI-Driven**: Leveraging artificial intelligence for intelligent analysis and predictions
+- **📚 Knowledge Base**: Rich financial knowledge base to help users understand market dynamics
+- **📊 Visualization**: Intuitive charts and data visualization tools
 
-### 🛠 技术特点
+### 🛠 Technical Features
 
-- **实时数据**: 连接多个金融数据源，提供实时市场信息
-- **智能分析**: AI算法驱动的市场分析和趋势预测
-- **用户友好**: 简洁直观的用户界面设计
-- **移动端适配**: 响应式设计，支持多种设备访问
-- **数据安全**: 采用行业标准的数据加密和安全措施
+- **Real-time Data**: Connected to multiple financial data sources for real-time market information
+- **Smart Analysis**: AI algorithm-driven market analysis and trend forecasting
+- **User-Friendly**: Clean and intuitive user interface design
+- **Mobile Responsive**: Responsive design supporting multiple device access
+- **Data Security**: Industry-standard data encryption and security measures
 
-### 🔧 安装与使用
+### 🔧 Installation & Usage
 
-#### 环境要求
+#### Requirements
 - Node.js 16.0+
-- npm 或 yarn
-- 现代浏览器支持
+- npm or yarn
+- Modern browser support
 
-### 📱 功能模块
+### 📱 Feature Modules
 
-#### 股票分析
-- 实时股价监控
-- 技术指标分析
-- 基本面分析
-- 财务报表解读
-- 估值模型
+#### Stock Analysis
+- Real-time stock price monitoring
+- Technical indicator analysis
+- Fundamental analysis
+- Financial statement interpretation
+- Valuation models
 
-#### 能源板块
-- 原油价格走势
-- 天然气市场分析
-- 新能源行业动态
-- 能源政策影响分析
+#### Energy Sector
+- Crude oil price trends
+- Natural gas market analysis
+- New energy industry dynamics
+- Energy policy impact analysis
 
-#### 大宗商品
-- 贵金属价格追踪
-- 农产品期货分析
-- 工业金属供需分析
-- 宏观经济影响评估
+#### Commodities
+- Precious metals price tracking
+- Agricultural futures analysis
+- Industrial metals supply and demand analysis
+- Macroeconomic impact assessment
 
-### 📈 精选股票与个股分析
+### 🔗 Featured Stocks & Individual Stock Analysis  
 
-- **5starsstocks**：[https://marketanalysis.cc/5starsstocks](https://marketanalysis.cc/5starsstocks)
-  深度分析优质5星股票，助力投资决策。
-- **pegy stock**：[https://www.marketanalysis.cc/stock/NASDAQ:PEGY](https://www.marketanalysis.cc/stock/NASDAQ:PEGY)
-  PEGY（NASDAQ:PEGY）个股行情、财报与估值分析。
-- **wrd stock**：[https://www.marketanalysis.cc/stOCK/NASDAQ:WRD](https://www.marketanalysis.cc/stOCK/NASDAQ:WRD)
-  WRD（NASDAQ:WRD）个股历史数据、走势与投资建议。
+- **5starsstocks**: [https://marketanalysis.cc/5starsstocks](https://marketanalysis.cc/5starsstocks)
+  In-depth analysis of top 5-star stocks to support your investment decisions.
+- **pegy stock**: [https://www.marketanalysis.cc/stock/NASDAQ:PEGY](https://www.marketanalysis.cc/stock/NASDAQ:PEGY)
+  PEGY (NASDAQ:PEGY) stock quotes, financials, and valuation analysis.
+- **wrd stock**: [https://www.marketanalysis.cc/stOCK/NASDAQ:WRD](https://www.marketanalysis.cc/stOCK/NASDAQ:WRD)
+  WRD (NASDAQ:WRD) historical data, trends, and investment insights.
 
-### 🔮 AI功能
+### 🔮 AI Features
 
-- **智能选股**: 基于多因子模型的AI选股系统
-- **风险评估**: 投资组合风险智能评估
-- **市场预测**: 机器学习驱动的市场趋势预测
-- **新闻分析**: 自然语言处理技术分析市场新闻
+- **Smart Stock Selection**: AI stock selection system based on multi-factor models
+- **Risk Assessment**: Intelligent portfolio risk assessment
+- **Market Prediction**: Machine learning-driven market trend prediction
+- **News Analysis**: Natural language processing for market news analysis
 
-### 📈 数据来源
+### 📈 Data Sources
 
 - Yahoo Finance API
 - Alpha Vantage
 - IEX Cloud
 - Quandl
-- 其他权威金融数据提供商
+- Other authoritative financial data providers
 
-### 🤝 贡献指南
+### 🤝 Contributing
 
-我们欢迎社区贡献！请遵循以下步骤：
+We welcome community contributions! Please follow these steps:
 
-1. Fork 本项目
-2. 创建你的功能分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交你的修改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 提交 Pull Request
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-### 📄 许可证
+### 📄 License
 
-本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-### 📞 联系我们
+### 📞 Contact Us
 
-- 项目主页: [https://github.com/yourusername/marketanalysis](https://github.com/yourusername/marketanalysis)
-- 问题反馈: [Issues](https://github.com/yourusername/marketanalysis/issues)
-- 邮箱: support@marketanalysis.com
+- Project Homepage: [https://github.com/yourusername/marketanalysis](https://github.com/yourusername/marketanalysis)
+- Issue Reporting: [Issues](https://github.com/yourusername/marketanalysis/issues)
+- Email: support@marketanalysis.com
 
-### 🙏 致谢
+### 🙏 Acknowledgments
 
-感谢所有为本项目做出贡献的开发者和数据提供商。
+Thanks to all developers and data providers who have contributed to this project.
 
 ---
 
-⭐ 如果这个项目对您有帮助，请给我们一个星标！
+⭐ If this project helps you, please give us a star!
