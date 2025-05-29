@@ -62,9 +62,9 @@ MarketAnalysis는 투자자와 금융 분석가를 위해 설계된 AI 및 지�
 
 - **5starsstocks**: [https://marketanalysis.cc/5starsstocks](https://marketanalysis.cc/5starsstocks)
   우수 5성급 주식의 심층 분석, 투자 의사결정 지원.
-- **pegy stock**: [https://www.marketanalysis.cc/stock/NASDAQ:PEGY](https://www.marketanalysis.cc/stock/NASDAQ:PEGY)
-  PEGY(NASDAQ:PEGY) 주가, 재무 및 가치 분석.
-- **wrd stock**: [https://www.marketanalysis.cc/stOCK/NASDAQ:WRD](https://www.marketanalysis.cc/stOCK/NASDAQ:WRD)
+- **Google**: [https://www.marketanalysis.cc/stock/NasdaqGS:GOOGL](https://www.marketanalysis.cc/stock/NasdaqGS:GOOGL)
+  Google (NasdaqGS:GOOGL) 주가, 재무 및 가치 분석.
+- **wrd stock**: [https://www.marketanalysis.cc/stock/NASDAQ:WRD](https://www.marketanalysis.cc/stock/NASDAQ:WRD)
   WRD(NASDAQ:WRD) 주가 데이터, 추세 및 투자 인사이트.
 
 ### 🔮 AI 기능

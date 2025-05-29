@@ -64,7 +64,7 @@ MarketAnalysis is a comprehensive AI and knowledge base-driven stock market anal
   In-depth analysis of top 5-star stocks to support your investment decisions.
 - **pegy stock**: [https://www.marketanalysis.cc/stock/NASDAQ:PEGY](https://www.marketanalysis.cc/stock/NASDAQ:PEGY)
   PEGY (NASDAQ:PEGY) stock quotes, financials, and valuation analysis.
-- **wrd stock**: [https://www.marketanalysis.cc/stOCK/NASDAQ:WRD](https://www.marketanalysis.cc/stOCK/NASDAQ:WRD)
+- **wrd stock**: [https://www.marketanalysis.cc/stock/NASDAQ:WRD](https://www.marketanalysis.cc/stock/NASDAQ:WRD)
   WRD (NASDAQ:WRD) historical data, trends, and investment insights.
 
 ### 🔮 AI Features

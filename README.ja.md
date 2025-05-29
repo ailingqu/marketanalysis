@@ -62,9 +62,9 @@ MarketAnalysisは、投資家と金融アナリストのために設計された
 
 - **5starsstocks**：[https://marketanalysis.cc/5starsstocks](https://marketanalysis.cc/5starsstocks)
   厳選された5つ星銘柄の詳細分析で投資判断をサポート。
-- **pegy stock**：[https://www.marketanalysis.cc/stock/NASDAQ:PEGY](https://www.marketanalysis.cc/stock/NASDAQ:PEGY)
-  PEGY（NASDAQ:PEGY）の株価、財務、バリュエーション分析。
-- **wrd stock**：[https://www.marketanalysis.cc/stOCK/NASDAQ:WRD](https://www.marketanalysis.cc/stOCK/NASDAQ:WRD)
+- **Google**：[https://www.marketanalysis.cc/stock/NasdaqGS:GOOGL](https://www.marketanalysis.cc/stock/NasdaqGS:GOOGL)
+  Google（NasdaqGS:GOOGL）の株価、財務、バリュエーション分析。
+- **wrd stock**：[https://www.marketanalysis.cc/stock/NASDAQ:WRD](https://www.marketanalysis.cc/stock/NASDAQ:WRD)
   WRD（NASDAQ:WRD）の過去データ、トレンド、投資インサイト。
 
 ### 🔮 AI機能

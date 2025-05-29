@@ -62,9 +62,9 @@ MarketAnalysis एक व्यापक AI और ज्ञान आधार�
 
 - **5starsstocks**: [https://marketanalysis.cc/5starsstocks](https://marketanalysis.cc/5starsstocks)
   शीर्ष 5-स्टार स्टॉक्स का गहन विश्लेषण, निवेश निर्णय में सहायक।
-- **pegy stock**: [https://www.marketanalysis.cc/stock/NASDAQ:PEGY](https://www.marketanalysis.cc/stock/NASDAQ:PEGY)
-  PEGY (NASDAQ:PEGY) स्टॉक भाव, वित्तीय विवरण और मूल्यांकन विश्लेषण।
-- **wrd stock**: [https://www.marketanalysis.cc/stOCK/NASDAQ:WRD](https://www.marketanalysis.cc/stOCK/NASDAQ:WRD)
+- **Google**: [https://www.marketanalysis.cc/stock/NasdaqGS:GOOGL](https://www.marketanalysis.cc/stock/NasdaqGS:GOOGL)
+  Google (NasdaqGS:GOOGL) स्टॉक भाव, वित्तीय विवरण और मूल्यांकन विश्लेषण।
+- **wrd stock**: [https://www.marketanalysis.cc/stock/NASDAQ:WRD](https://www.marketanalysis.cc/stock/NASDAQ:WRD)
   WRD (NASDAQ:WRD) ऐतिहासिक डेटा, ट्रेंड और निवेश सलाह।
 
 ### 🔮 AI सुविधाएं

@@ -62,9 +62,9 @@ MarketAnalysis 是一個基於AI和知識庫的綜合性股票市場分析平台
 
 - **5starsstocks**：[https://marketanalysis.cc/5starsstocks](https://marketanalysis.cc/5starsstocks)
   深度分析優質5星股票，協助投資決策。
-- **pegy stock**：[https://www.marketanalysis.cc/stock/NASDAQ:PEGY](https://www.marketanalysis.cc/stock/NASDAQ:PEGY)
-  PEGY（NASDAQ:PEGY）個股行情、財報與估值分析。
-- **wrd stock**：[https://www.marketanalysis.cc/stOCK/NASDAQ:WRD](https://www.marketanalysis.cc/stOCK/NASDAQ:WRD)
+- **Google**：[https://www.marketanalysis.cc/stock/NasdaqGS:GOOGL](https://www.marketanalysis.cc/stock/NasdaqGS:GOOGL)
+  Google（NasdaqGS:GOOGL）個股行情、財報與估值分析。
+- **wrd stock**：[https://www.marketanalysis.cc/stock/NASDAQ:WRD](https://www.marketanalysis.cc/stock/NASDAQ:WRD)
   WRD（NASDAQ:WRD）個股歷史數據、走勢與投資建議。
 
 ### 🔮 AI功能
