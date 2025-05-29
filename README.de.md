@@ -100,7 +100,7 @@ Dieses Projekt steht unter der MIT-Lizenz - siehe [LICENSE](LICENSE) Datei für 
 
 - Projekt-Homepage: [https://github.com/yourusername/marketanalysis](https://github.com/yourusername/marketanalysis)
 - Problem-Berichterstattung: [Issues](https://github.com/yourusername/marketanalysis/issues)
-- E-Mail: support@marketanalysis.com
+- E-Mail: admin@pww.com
 
 ### 🙏 Danksagungen
 

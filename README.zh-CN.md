@@ -100,7 +100,7 @@ MarketAnalysis 是一个基于AI和知识库的综合性股票市场分析平台
 
 - 项目主页: [https://github.com/yourusername/marketanalysis](https://github.com/yourusername/marketanalysis)
 - 问题反馈: [Issues](https://github.com/yourusername/marketanalysis/issues)
-- 邮箱: support@marketanalysis.com
+- 邮箱: admin@pww.com
 
 ### 🙏 致谢
 

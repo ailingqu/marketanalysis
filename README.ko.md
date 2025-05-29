@@ -100,7 +100,7 @@ MarketAnalysis는 투자자와 금융 분석가를 위해 설계된 AI 및 지�
 
 - 프로젝트 홈페이지: [https://github.com/yourusername/marketanalysis](https://github.com/yourusername/marketanalysis)
 - 이슈 신고: [Issues](https://github.com/yourusername/marketanalysis/issues)
-- 이메일: support@marketanalysis.com
+- 이메일: admin@pww.com
 
 ### 🙏 감사의 말
 

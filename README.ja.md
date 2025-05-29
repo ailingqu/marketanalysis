@@ -100,7 +100,7 @@ MarketAnalysisは、投資家と金融アナリストのために設計された
 
 - プロジェクトホームページ: [https://github.com/yourusername/marketanalysis](https://github.com/yourusername/marketanalysis)
 - 問題報告: [Issues](https://github.com/yourusername/marketanalysis/issues)
-- メール: support@marketanalysis.com
+- メール: admin@pww.com
 
 ### 🙏 謝辞
 

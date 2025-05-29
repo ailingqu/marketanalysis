@@ -100,7 +100,7 @@ MarketAnalysis एक व्यापक AI और ज्ञान आधार�
 
 - प्रोजेक्ट होमपेज: [https://github.com/yourusername/marketanalysis](https://github.com/yourusername/marketanalysis)
 - समस्या रिपोर्टिंग: [Issues](https://github.com/yourusername/marketanalysis/issues)
-- ईमेल: support@marketanalysis.com
+- ईमेल: admin@pww.com
 
 ### 🙏 आभार
 
